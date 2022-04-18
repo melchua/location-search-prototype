@@ -1,0 +1,9 @@
+.container {
+  margin: 20px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  padding: 1.3rem;
+  background: white;
+  width: 300px;
+}
